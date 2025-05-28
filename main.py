@@ -5,7 +5,7 @@ import requests
 GEMINI_API_URL = "https://api.gemini.ai/v1/chat/completions"  
 
 # API key Gemini kamu (biasanya didapat saat daftar)
-GEMINI_API_KEY = "AIzaSyBoB--rDafKAmoAk1HDmU3fpfM9H9T93F4"
+GEMINI_API_KEY = "Test"
 
 SYSTEM_PROMPT = (
     "Kamu adalah asisten AI ahli di bidang klaim asuransi kesehatan. "
